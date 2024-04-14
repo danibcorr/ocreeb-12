@@ -19,3 +19,4 @@ Although the video shows the pins to which each element on the PCB is connected,
 - ROT2_A → Pin SCK → GP18.
 - ROT2_B → Pin MISO → GP20.
 - ROT2_SWITCH → Pin MOSI → GP19.
+- NEOPIXEL → D10 → GP10.
